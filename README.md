@@ -5,7 +5,7 @@
 <b>Long description/background:</b></br>
 This script was created for the purpose of waiving fines in bulk with more control than provided by the bulk fine waiving option in Alma. The list of fines was created using Alma analytics and filtered by date and amount there. The report will then be exported as a csv which will be read by the script as a dataframe. The columns of the dataframe are then added to arrays/lists. Each list/array is iterated over by a loop to create the link to post to the Alma API.  Error messages are added to the dataframe as a new column called 'Notes'. The updated dataframe is than saved as a new csv.
 
-<b>Language:</b> Python</br>
+<b>Language:</b> Python, script available as both python and python notebook file.</br>
 <b>API:</b> Alma, users, read/write</br>
 Originally written and executed with Anaconda/Jupyter</br>
 
