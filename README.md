@@ -1,5 +1,4 @@
 # ExLibris-Alma-bulk-fine-waive
-
 <b>Brief Description:</b> The script waives individual fines, on a list produced from alma analytics.
 
 <b>Long description/background:</b></br>
