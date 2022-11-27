@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-#Author Rachel Merrick.
+#Author Rachel Merrick. 
 #This script was created for the purpose of waiving fines in bulk with more control than provided by the bulk fine waiving
 #option in Alma. The list of fines are created using Alma analytics and filtered by date and amount there.
 #The report will then be exported as a csv which will be read by the script as a dataframe.
